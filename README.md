@@ -10,12 +10,12 @@ self-paced review. Private by design: every exercise runs on workflows and
 roles (never names) and nothing typed is saved or sent anywhere.
 
 Part of the Vanderbilt Learning Series. Catalog:
-[Course Library](https://me5231979.github.io/Course_Library/) ·
-Sister programs: [AI Basics](https://me5231979.github.io/AI_Classroom/),
-[Emotional Intelligence](https://me5231979.github.io/Emotional-Intelligence/)
+[Course Library](https://flh-learning-library.vercel.app/) ·
+Sister programs: [AI Basics](https://futureslearninghub.github.io/AI_Classroom/),
+[Emotional Intelligence](https://futureslearninghub.github.io/Emotional-Intelligence/)
 
-- **Learner edition:** https://me5231979.github.io/Workflow/
-- **Facilitator edition:** https://me5231979.github.io/Workflow/facilitator/
+- **Learner edition:** https://futureslearninghub.github.io/Workflow/
+- **Facilitator edition:** https://futureslearninghub.github.io/Workflow/facilitator/
 
 ## Running it
 

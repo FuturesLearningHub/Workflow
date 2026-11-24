@@ -1,12 +1,12 @@
 # Workflow & Process Redesign — Vanderbilt Learning Series
 
 Single-page interactive classroom experience (Learning on Demand). Live at
-https://me5231979.github.io/Workflow/ (GitHub Pages, `gh-pages` branch —
+https://futureslearninghub.github.io/Workflow/ (GitHub Pages, `gh-pages` branch —
 publish with `git branch -f gh-pages main && git push -f origin gh-pages`).
 
 Sister programs: AI_Classroom (AI Basics), AI-Advanced (AI 201),
 Difficult_Conversations, Coaching-for-Performance, Emotional-Intelligence;
-catalog at me5231979/Course_Library. Same engine, same standing principles.
+catalog at FuturesLearningHub/FLH-Learning-Library-. Same engine, same standing principles.
 
 ## Standing design principles (do not regress these)
 
